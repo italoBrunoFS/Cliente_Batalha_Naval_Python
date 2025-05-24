@@ -12,10 +12,10 @@ O cliente envia e recebe mensagens via protocolo UDP, permitindo a interação e
 
 ## Funcionalidades
 
-- ✅ Conexão com o servidor via UDP;
-- ✅ Envio de ataques;
-- ✅ Recebimento de feedback dos ataques;
-- ✅ Exibição do estado atual do jogo no terminal.
+-  Conexão com o servidor via UDP;
+-  Envio de ataques;
+-  Recebimento de feedback dos ataques;
+-  Exibição do estado atual do jogo no terminal.
 
 ## Tecnologias Utilizadas
 
